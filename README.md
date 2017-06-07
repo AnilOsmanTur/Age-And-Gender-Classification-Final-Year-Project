@@ -14,3 +14,5 @@ Age and Gender Classification
 ● This removes the heavy workload on the client
 
 ● The trained Convolution structure and weights are shared on GitHub.
+
+![Project Poster](https://github.com/AnilOsmanTur/Age-And-Gender-Classification-Final-Year-Project-/blob/master/imgpsh_fullsize.png)
