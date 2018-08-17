@@ -1,4 +1,4 @@
-# Age-And-Gender-Classification-Final-Year-Project-
+# Age & Gender Classification Final Year Project
 Age and Gender Classification
 
 ● Goal is predict Age and Gender of Human by using Deep Learning.
